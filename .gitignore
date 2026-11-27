@@ -1,0 +1,9 @@
+# RE workspace ignores
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+*.orig
+# keep binaries out unless deliberately added per-target
+*.keystore
+*.jks
