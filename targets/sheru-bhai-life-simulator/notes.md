@@ -118,3 +118,43 @@ Total release size ~240 MB, split like this:
 ---
 
 Applied subset: the engineering foundation was adopted into Nik5479/unity6-game — see ENGINEERING_SETUP.md there. No Sheru assets, code, IDs or brand were copied.
+
+---
+
+## Play Store link (sent by Nik 2026-11-27 — he says this is the correct one)
+
+https://play.google.com/store/apps/details?id=com.Skorax.SheruBhaiGame
+
+## Store facts (checked 2026-11-27, cloud browser)
+
+- Title: "Sheru Bhai Life Simulator Game", developer Skorax. Contains ads + in-app purchases.
+- Rating: 4.5 stars, 25.6K reviews (20,347x5*, 1,670x4*, 899x3*, 531x2*, 1,658x1*). 5M+ downloads. #1 Top Free in Simulation.
+- Updated Nov 23, 2026; released Nov 18, 2026; Version 9; about 240 MB; requires Android 9.0+; also listed for Windows (Intel). Rated 12+, Moderate Violence.
+- What's new: "Royal Convoy, Money Helicopter, Iron Suit, Shop, Football, and more features."
+- Short description: "Drive cars, ride bikes, and customize your car in Sheru Bhai's open world."
+- Store description claims (not all verified in gameplay): mansion with marble floors, gold lion statues, pool deck, gold room, master suite, office, guest room; money-throw button; wardrobe suits; 15 luxury cars, superbikes, fighter jets, big jet, propeller plane, helicopter; phone to call vehicles; showroom; island with highways, hill roads, airport, beaches, village, stadium; day/night, clouds, rain; police chases; gold phone with Vehicle, Weapon, Bank, Camera apps.
+
+## Gameplay watched (2026-11-27)
+
+YouTube: "Playing the Most Viral SHERU BHAI Game" — Target siblings Gamerz (3.85M subs), 17m16s, 1.5M views. https://www.youtube.com/watch?v=d1Fl-QpbwrY — real captured gameplay, not the store trailer.
+
+### Graphics — LOW-POLY / flat stylised, NOT realistic
+
+Bright, flat, low-poly mobile 3D (GTA-style simulator mould). Saturated flat colours, almost no texture detail, minimal shadows, simple blocky edges. The lion's head in-game is a chunky flat-maned low-poly model — a world away from the near-photorealistic lion in the store screenshots and app icon. Buildings are plain grey/beige boxes; roads flat grey strips with yellow centre line; trees simple green blobs / flat palms; sky flat blue with cartoon clouds; sea flat cyan. Store art is much glossier / apparently AI-rendered than the real game.
+
+### Character, mansion, vehicles, world, UI
+
+- Lion: anthropomorphic, upright, white shaggy mane, tan face; white suit with gold embroidery, gold chain + lion pendant, gold watch. Small cub "Chhotu Sheru" in matching suit walks around the house. Movement stiff/simple: basic walk/run, turning on the spot; no lip-sync/facial animation visible.
+- Mansion exterior is the showpiece (white/beige two-storey, columns, gold lion statues, "SHERU BHAI" sign, fountain, pool, walled compound, black-and-gold gate). NO furnished, brightly lit interior was shown in the sampled segments — narrator looks for the Iron Suit in the bedroom/wardrobe but opens the map instead; interior claims unverified.
+- Vehicles: gold Lamborghini-style supercar (up to ~96 Km/h), yellow Lamborghini, white "diamond" supercar; teal cruiser bike; gold "Money Helicopter" hovering and dropping banknotes (not seen piloted); jets not seen flown. Driving is arcade-simple, no damage modelling seen. "Royal Convoy" (up to 10 cars follow) is mostly for show.
+- World: single island map — House, Train Station, Airport, Jungle, Military Base, Police Station, Showroom, School, Stadium, Gun Shop. City of plain grey high-rises, beach + Ferris wheel, football stadium, flat fields, palms. Large in scope but sparse/low-detail up close; no village clearly shown.
+- UI: circular minimap top-left, virtual joystick bottom-left, phone icon bottom-centre (gold phone: Bodyguards, Vehicle, Weapon, Bank, Camera, Settings), right-side round buttons (punch, jump, run, gun, lightning, money-throw, camera). Driving swaps joystick for left/right arrows + speed, brake, accelerator, nitro, horn. Football mode: PASS/SPRINT/SHOOT/TACKLE + scoreboard. Phone Camera app has selfie mode + Instagram-like posting ("Aura meter"). Settings: Weather Day/Cloud/Night, Controls Touch/Steering, Camera Normal/Far/More far.
+- Day/night + weather are manual toggles. Night is very dark with flat lighting. Police: a single black-and-white car that "can't do anything" (narrator joke — can be paid off); no real chase/wanted system shown. Bodyguards follow (rhino, fox). Football 3v3 with simple AI. Gun shop prices are joke values ("10 billion trillion").
+
+### Quality-bar takeaway (for our horror village game)
+
+- Low-poly + bright/flat can carry a 4.5-star / 5M+ game IF the world is dense with named places and playful systems — but the store art over-promises vs the real game (top 2-star review: "the app doesn't match what we see in Sheru Bhai's reels"). Lesson: never let key art promise more fidelity than the game delivers.
+- Glitches exist even here (cursor stuck ~14:49, advertised Iron Suit not findable). Smoothness bar to copy: stable FPS, responsive controls, readable UI — NOT the low-poly art style. Our game stays realistic horror.
+- Keep any interior actually visible and lit; make AI/vehicles feel like they do something, not decoration.
+
+Nothing was installed, downloaded, copied, or signed in to during this observation. No Sheru assets, brand, character or art reproduced here beyond description.
